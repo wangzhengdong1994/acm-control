@@ -1,0 +1,13 @@
+{
+  "disabled": false,
+  "expiry_date": "2024-12-31T23:59:59",
+  "min_version": "1.0",
+  "features": {
+    "pdf_download": true,
+    "auto_pagination": true
+  },
+  "usage_limit": 1000,
+  "usage_count": 0,
+  "message": "程序运行正常",
+  "update_url": "https://github.com/yourusername/acm-control"
+}
